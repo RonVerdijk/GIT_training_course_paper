@@ -15,3 +15,7 @@ but continental-sclae measurements have not previously been made.
 
 A large uncertainty in modelling BBOA is the extent to which
 measurements in the lit can be applied.
+
+# Simulations
+We simulate the evolution of particle sizes as the are transported
+away from the source region.
