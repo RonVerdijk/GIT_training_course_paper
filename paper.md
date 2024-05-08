@@ -19,3 +19,7 @@ measurements in the lit can be applied.
 # Simulations
 We simulate the evolution of particle sizes as the are transported
 away from the source region.
+
+# Methodology
+We compared something. 
+The model is detailed in Smith et all 2002. 
