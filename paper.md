@@ -26,3 +26,6 @@ The model is detailed in Smith et all 2002.
 
 # Results
 Text Text Text
+
+# Figure
+My figure
